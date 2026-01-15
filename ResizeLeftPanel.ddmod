@@ -1,7 +1,7 @@
 {
 	"name": "Resize Left Panel Mod",
 	"unique_id": "uchideshi34.ResizeLeftPanel",
-	"version": "0.9.0",
+	"version": "1.0.0",
 	"author": "uchideshi34",
 	"description": "Adds the option to drag the inbuilt left tool panels wider.",
 	"dd_version": "1.2.0.1"

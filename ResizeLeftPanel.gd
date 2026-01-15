@@ -38,6 +38,7 @@ func setup_resize_area(tool_type: String):
 
 	var hbox = HBoxContainer.new()
 	hbox.size_flags_horizontal = 3
+	hbox.size_flags_vertical = 3
 
 	tool_panel.add_child(hbox)
 	tool_panel.remove_child(tool_panel.Align)
